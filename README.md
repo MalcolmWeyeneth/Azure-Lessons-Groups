@@ -1,2 +1,2 @@
-#Tutorial to create a Azure Active Directory Group
+# Tutorial to create a Azure Active Directory Group
 
