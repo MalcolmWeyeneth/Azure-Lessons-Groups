@@ -28,6 +28,8 @@ Select the Group type as Security from the New Group window.
 - Group name (Mandatory field). You can give a meaning full name to the group. It will verify in the back end if that name is available or else you will have to modify the group   name.
 - Group description(Optional)
 - Membership type (Mandatory field)
+  - Dynamic User (Requires P1 licensing) 
+  - Dynamic Device (Requires P1 licensing) 
   
 Now click on the Create button.
 
