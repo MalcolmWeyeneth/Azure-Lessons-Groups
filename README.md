@@ -22,6 +22,7 @@
 
 ![GitHub Logo](/how-to-Create-a-group-and-add-members-in-Azure-Active-Directory-1-768x333.jpg)
 
+To create the Security Group in Azure AD, You will need to follow the below steps
 In the New Group page, you will have to fill out the required information.
 
 Select the Group type as Security from the New Group window.
