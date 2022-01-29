@@ -8,3 +8,5 @@ Then click on Groups icon or type groups in the search bar from the home page.
 ![GitHub Logo](/Create-a-group-and-add-members-in-Azure-Active-Directory.jpg)
 
 On Groups blade select New group
+
+![GitHub Logo](/how-to-Create-a-group-and-add-members-in-Azure-Active-Directory-1-768x333.jpg)
