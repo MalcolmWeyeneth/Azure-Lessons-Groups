@@ -32,6 +32,7 @@ Select the Group type as Security from the New Group window.
   - Dynamic User (Requires P1 licensing) 
   - Dynamic Device (Requires P1 licensing) 
   
-Now click on the Create button.
 
 ![GitHub Logo](/Create-a-group-in-Azure-active-directory-768x778.jpg)
+
+Now click on the Create button.
