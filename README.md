@@ -36,3 +36,5 @@ Select the Group type as Security from the New Group window.
 ![GitHub Logo](/Create-a-group-in-Azure-active-directory-768x778.jpg)
 
 Now click on the Create button.
+
+Now lets verify your Group that was just created.
