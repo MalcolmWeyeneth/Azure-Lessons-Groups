@@ -1,6 +1,6 @@
 # Tutorial to create a Azure Active Directory Group
 
-## In this Azure tutorial
+## In this Azure tutorial I will show you how to:
 - Create a group in Azure active directory
 - Create a Security Group in Azure AD (Azure Active Directory)
 - Add members to Azure AD Groups
