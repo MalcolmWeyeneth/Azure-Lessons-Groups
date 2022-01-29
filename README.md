@@ -4,12 +4,11 @@
 - Create a group in Azure active directory using the portal
 - Create a Security Group in Azure AD (Azure Active Directory) using the portal
 - Add members to Azure AD Groups using the portal
-- How to create a group in Azure Active Directory using PowerShell
-- Create Azure AD Group using PowerShell
-- Add Azure ad group member using PowerShell
-- PowerShell command to get Azure AD group members
-- Delete Azure AD group using PowerShell
+- How to create a Group in Azure Active Directory using PowerShell
+- PowerShell command to get Azure AD group details
+- Add member to Azure AD group using PowerShell
 - Update Azure AD Groups using PowerShell
+- Delete Azure AD group using PowerShell
 
 #### Login to Azure Portal https://portal.azure.com/ 
 
