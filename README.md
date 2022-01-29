@@ -1,10 +1,10 @@
 # Tutorial to create a Azure Active Directory Group
 
 ## In this tutorial I will show you how to:
-- Create a group in Azure active directory using the portal
+- Create a group in Azure AD using the portal
 - Create a Security Group in Azure AD using the portal
 - Add members to Azure AD Groups using the portal
-- How to create a Group in Azure Active Directory using PowerShell
+- How to create a Group in Azure AD using PowerShell
 - PowerShell command to get Azure AD group details
 - Add member to Azure AD group using PowerShell
 - Update Azure AD Groups using PowerShell
