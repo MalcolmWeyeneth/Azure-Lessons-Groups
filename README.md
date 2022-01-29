@@ -25,9 +25,9 @@
 To create the Security Group in Azure AD, You will need to follow the below steps
 
 Select the Group type as Security from the New Group window.
-- Group name (required field). You can give a meaning full name to the group. It will verify in the back end if that name is available or else you will have to modify the group   name.
+- Group name (Mandatory field). You can give a meaning full name to the group. It will verify in the back end if that name is available or else you will have to modify the group   name.
 - Group description(Optional)
-- Membership type (required field)
+- Membership type (Mandatory field)
   
 Now click on the Create button.
 
