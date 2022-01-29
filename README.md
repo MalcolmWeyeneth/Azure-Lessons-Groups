@@ -9,4 +9,5 @@ I will show you how to create an group in Azure AD (Azure Active Directory) from
 
 #### On Groups blade select New group
 
+
 ![GitHub Logo](/how-to-Create-a-group-and-add-members-in-Azure-Active-Directory-1-768x333.jpg)
