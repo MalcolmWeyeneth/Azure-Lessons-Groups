@@ -6,3 +6,5 @@ Login to Azure Portal https://portal.azure.com/
 Then click on Groups icon or type groups in the search bar from the home page.
 
 ![GitHub Logo](/Create-a-group-and-add-members-in-Azure-Active-Directory.jpg)
+
+On Groups blade select New group
