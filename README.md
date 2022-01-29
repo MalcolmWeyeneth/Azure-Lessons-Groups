@@ -25,3 +25,5 @@
 In the New Group page, you will have to fill out the required information.
 
 Select the Group type as Security from the New Group window.
+
+![GitHub Logo](/Create-a-security-group.jpg)
