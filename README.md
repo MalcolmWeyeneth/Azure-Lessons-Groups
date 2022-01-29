@@ -10,6 +10,8 @@
 - Update Azure AD Groups using PowerShell
 - Delete Azure AD group using PowerShell
 
+## Create a group in Azure AD using the portal
+
 #### Login to Azure Portal https://portal.azure.com/ 
 
 #### Then click on Groups icon or type groups in the search bar from the home page.
