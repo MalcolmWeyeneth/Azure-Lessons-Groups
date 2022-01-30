@@ -37,6 +37,8 @@ Select the Group type as Security from the New Group window.
 
 Now click on the Create button.
 
-Now lets verify that the Group has been successfully created.
+The newly created Group should now appear in the "All Groups" blade if successfully created.
 
 ![GitHub Logo](/How-to-create-a-group-and-add-members-using-Azure-Active-Directory.jpg)
+
+## Add members to Azure AD Groups
