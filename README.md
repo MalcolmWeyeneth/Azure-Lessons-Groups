@@ -53,6 +53,6 @@ Now on the Add members window, Search for the users need to be added.Then click 
 
 ![GitHub Logo](/add_user_member.jpg)
 
+Now you can see Member added successfully.
 
-
-
+![GitHub Logo](/add_user_member_added.jpg)
