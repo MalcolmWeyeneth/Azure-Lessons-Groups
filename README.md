@@ -43,3 +43,6 @@ The newly created Group should now appear in the "All Groups" blade if successfu
 ![GitHub Logo](/How-to-create-a-group-and-add-members-using-Azure-Active-Directory.jpg)
 
 ## Add members to Azure AD Groups
+Now we can add the members to the group TsinfoGroup we just created.
+
+Click on the group name -> Select the Members link from the left and then click on the Add Members button. (If there are no users wtch my tutorial on creating a New User)
