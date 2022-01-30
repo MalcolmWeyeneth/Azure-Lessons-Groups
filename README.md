@@ -57,4 +57,4 @@ Now you can see Member added successfully.
 
 ![GitHub Logo](/add_user_member_added.jpg)
 
-So as you saw pretty easy setting up a new group and adding a member to the group using the portal.
+So you now have the knowledge on how to setup a group and how to add a memeber to the group using the Azure portal, pretty easy!! 
