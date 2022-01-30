@@ -10,7 +10,7 @@
 - Update Azure AD Groups using PowerShell
 - Delete Azure AD group using PowerShell
 
-## Create a group in Azure AD using the portal
+## Create a New Group (Portal)
 
 #### Login to Azure Portal https://portal.azure.com/ 
 
@@ -22,6 +22,7 @@
 
 ![GitHub Logo](/how-to-Create-a-group-and-add-members-in-Azure-Active-Directory-1-768x333.jpg)
 
+## Create a Security Group (Portal)
 To create the Security Group in Azure AD, You will need to follow the below steps
 
 Select the Group type as Security from the New Group window.
