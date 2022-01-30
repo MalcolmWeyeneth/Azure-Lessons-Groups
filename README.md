@@ -56,3 +56,5 @@ Now on the Add members window, Search for the users need to be added.Then click 
 Now you can see Member added successfully.
 
 ![GitHub Logo](/add_user_member_added.jpg)
+
+So as you saw pretty easy setting up a new group and adding a member to the group using the portal.
