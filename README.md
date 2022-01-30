@@ -49,9 +49,9 @@ Click on the group name -> Select the Members link from the left and then click 
 
 ![GitHub Logo](/add-members.jpg)
 
+Now on the Add members window, Search for the users need to be added.Then click on Select button.
 
-
-
+![GitHub Logo](/add_user_member.jpg)
 
 
 
