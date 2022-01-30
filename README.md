@@ -54,6 +54,7 @@ Now on the Add members window, Search for the users need to be added.Then click 
 ![GitHub Logo](/add_user_member.jpg)
 
 Now you can see Member added successfully.
+(if the user is not displaying just click the "Refresh" button it can take a few seconds on occations for the user to appear).
 
 ![GitHub Logo](/add_user_member_added.jpg)
 
