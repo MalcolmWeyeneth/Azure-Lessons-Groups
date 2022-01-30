@@ -1,4 +1,4 @@
-# Tutorial to create a Azure Active Directory Group
+# How to create an Azure Active Directory Group
 
 ## In this tutorial I will show you how to:
 - Create a group in Azure AD using the portal
